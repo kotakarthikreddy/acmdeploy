@@ -18,7 +18,7 @@ router.post('/', (req, res) => {
         requireTLS: true,
         auth: {
             user: 'acmvitap.in@gmail.com',
-            pass: 'ykjekcuhrcwlqscn'
+            pass: 'whsfjqvkokgdfnjm'
         }
       });
       
